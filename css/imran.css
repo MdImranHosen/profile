@@ -1,0 +1,8 @@
+.image_style{border:8px solid #CA7D60;border-radius: 50%;width: 200px;height: auto;display: none;}
+@media (max-width: 990px){
+.image_style{display: block;}	
+}
+
+@media (max-width: 600px){
+h1.mb-0{font-size: 4rem;}	
+}

@@ -26,70 +26,91 @@
   <li>GIT</li>
 </ul>
 
+
+<h2>Experience</h2>
+<ul>
+<h4>University of Dhaka</h4>
+  <li>Web Application Developer</li>
+  <li>Computer Science & Information Technology - CSIT</li>
+  <li>Website: <a href="http://www.dua7c.com/" target="_blank">www.www.dua7c.com</a></li>
+  <li>Website: <a href="http://www.ducmc.com/" target="_blank">www.www.ducmc.com</a></li>
+  <li>November-2019 - Present</li>
+  
+  <h4>Hope IT Limited</h4>
+  <li>Web Application Developer</li>
+  <li>Website: <a href="http://hopeitltd.com/" target="_blank">www.hopeitltd.com</a></li>
+  <li>December 2018 - November 2019</li>
+  
+  <h4>Tech Group</h4>
+  <li>Web Developer</li>
+  <li>Website: <a href="http://techgroup.co/" target="_blank">www.techgroup.co</a></li>
+  <li>December-09-2017 - December 2018</li>
+</ul>
+
+
+<h2>Education</h2>
+<ul>
+<h4>Victoria University of Bangladesh</h4>
+  <li>Bachelor of Science</li>
+  <li>Computer Science & Information Technology - CSIT</li>
+  <li>Website: <a href="http://vub.edu.bd/" target="_blank">www.vub.edu.bd</a></li>
+  <li>58/11/A, Panthapath, Dhaka, Bangladesh</li>
+  
+  <h4>Jhenaidah Polytechnic Institute, Jhenaidah</h4>
+  <li>Deploma in Engnieering</li>
+  <li>Website: <a href="http://jhenaidahpoly.gov.bd/" target="_blank">www.jhenaidahpoly.gov.bd</a></li>
+  <li>22 October 2011 to 22 October 2015</li>
+</ul>
+
 <h2>Projects</h2>
-        <ol>
+        <ul>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              Dhaka University Affiliated 7 Colleges <small>( www.dua7c.com )</small> <a target="_blank" href="https://www.dua7c.com/"> <i class="fa fa-globe"></i> www.dua7c.com </a>
           </li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              Dhaka University Associated Medical college Colleges <small>( www.ducmc.com )</small> <a target="_blank" href="https://www.ducmc.com/"> <i class="fa fa-globe"></i> www.ducmc.com </a>
           </li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              BD Events 24 <small>( www.bdevents24.com )</small> <a target="_blank" href="https://www.ducmc.com/"> <i class="fa fa-globe"></i> www.bdevents24.com </a>
           </li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              Venture Tech <small>( www.venturetech.com )</small> <a target="_blank" href="https://www.venturetech.com/"> <i class="fa fa-globe"></i> www.venturetech.com </a>
           </li>
-          <li>
-           <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>          
             LPG App <small>( LPG APP )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2019 May </sup>
           </li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              My Ride BD <small>( www.myride.com )</small> <a target="_blank" href="#"> <i class="fa fa-globe"></i> www.myride.com </a>
           </li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              Hope IT Limited <small>( www.hopeitltd.com )</small> <a target="_blank" href="https://www.hopeitltd.com/"> <i class="fa fa-globe"></i> www.hopeitltd.com </a>
           </li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
              Peeps Channel <small>( www.peepschannel.com )</small> <a target="_blank" href="https://www.ducmc.com/"> <i class="fa fa-globe"></i> www.peepschannel.com </a>            
           </li> 
-          <li>
-           <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>          
             All Bangla Newspapers <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2018 July </sup>
           </li>
           <li>
            <i class="fa-li fa fa-trophy text-warning"></i>            
             PDLNEWS <small>( www.pdlnews.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2018 May </sup>
           </li>
-          <li>
-           <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>         
             Private Detective limited <small>( www.pdl007.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2018 January </sup>
           </li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>         
             Newtrent Cake & Pastry Shop <small>( www.newtrentbd.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2016 April </sup>
           </li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>          
             Mr Baker Cake & Pastry Shop <small>( www.mrbakerbd.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2016 May </sup>
           </li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>          
             Ayub Auto <small>( www.ayubauto.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2016 April </sup>
           </li> 
-           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>            
+           <li>          
             Awebfox IT Solution <small>( www.awebfox.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2016 March </sup>
           </li> 
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>            
+          <li>         
             Green Environmental Club <small>( www.gecpoly.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2016 January </sup>
           </li>          
-        </ol>
+        </ul>

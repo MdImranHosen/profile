@@ -114,3 +114,11 @@
             Green Environmental Club <small>( www.gecpoly.com )</small> <a href="#"> <i class="fab fa-github"></i> Gighub </a> <sup> 2016 January </sup>
           </li>          
         </ul>
+        
+        <br><hr>
+        <h4> Certificate </h4>
+        
+        <img src="img/PHP_certificate[1].jpg" />
+        <img src="img/Java_certificate[1].jpg" />
+        <img src="img/SQL_certificate[1].jpg" />
+        <img src="img/HTML_certificate[1].jpg" />

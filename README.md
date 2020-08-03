@@ -115,10 +115,9 @@
           </li>          
         </ul>
         
-        <br><hr>
+
         <h4> Certificate </h4>
-        
-        <img src="img/PHP_certificate[1].jpg" />
-        <img src="img/Java_certificate[1].jpg" />
-        <img src="img/SQL_certificate[1].jpg" />
-        <img src="img/HTML_certificate[1].jpg" />
+        <img src="img/https://github.com/MdImranHosen/profile/blob/master/img/PHP_certificate%5B1%5D.jpg" style="width:100%;">
+        <img src="https://github.com/MdImranHosen/profile/blob/master/img/Java_certificate%5B1%5D.jpg" style="width:100%;">
+        <img src="https://github.com/MdImranHosen/profile/blob/master/img/SQL_certificate%5B1%5D.jpg" style="width:100%;">
+        <img src="https://github.com/MdImranHosen/profile/blob/master/img/HTML_certificate%5B1%5D.jpg" style="width:100%;">

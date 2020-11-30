@@ -34,7 +34,7 @@
   <li>Computer Science & Information Technology - CSIT</li>
   <li>Website: <a href="http://www.dua7c.com/" target="_blank">www.www.dua7c.com</a></li>
   <li>Website: <a href="http://www.ducmc.com/" target="_blank">www.www.ducmc.com</a></li>
-  <li>January-2019 - Present</li>
+  <li> October - 2019 - Present</li>
   
   <h4>Hope IT Limited</h4>
   <li>Web Application Developer</li>
